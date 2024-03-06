@@ -1,0 +1,5 @@
+[package]
+
+name = "hello-world-rust"
+version = "0.0.1"
+authors = ["Maximilien Baumann"]
